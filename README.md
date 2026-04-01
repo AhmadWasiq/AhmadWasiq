@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:ea580c&height=200&section=header&text=Wasiq%20Shairzad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20Math%20Student%20%7C%20AI%2FML&descAlignY=60&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=700&lines=Reading+papers+and+building+things;Transformers%2C+diffusion%2C+and+whatever+breaks+next;Paris-based%2C+self-directed%2C+going+deep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=700&lines=Reading+papers+and+building+things;Transformers%2C+diffusion%2C+whatever+breaks+next;Paris-based%2C+self-directed%2C+going+deep)](https://git.io/typing-svg)
 
 </div>
 
