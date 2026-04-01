@@ -43,7 +43,7 @@ attn = DifferentialNeuralAttention(d_model=512, n_heads=8, layer_idx=0)
 output = attn(x)  # drop-in replacement for standard attention
 ```
 
-→ **[View Project](https://github.com/AhmadWasiq/differential-neural-attention)**
+**[View Project](https://github.com/AhmadWasiq/differential-neural-attention)**
 
 ---
 
